@@ -1,12 +1,25 @@
 ## Hi there, I'm Pavel!
 
-Изучаю разработку веб-приложений на PHP и JS
+Я изучаю разработку веб-приложений и сервисов на PHP и JavaScript.
 
-## Навыки
-Языки программирования: C, PHP, HTML, CSS, JavaScript
+## Основные навыки:
 
-Базы данных: MySQL, PostgreSQL
+### Веб-разработка:
 
-Фреймворки: Laravel, Slim, Vue, Tailwind
+HTML, CSS, JavaScript, PHP
 
-Инструменты разработки: Visual Studio Code, PHPStorm, CLion, Git, Docker
+### Фреймворки:
+
+Laravel, Vue.js, Slim
+
+### Стили:
+
+Bootstrap, Tailwind CSS
+
+### Базы данных:
+
+MySQL, PostgreSQL
+
+### Инструменты:
+
+Git, Docker, VS Code, PHP Storm, Tinkerwell, Insomnia
