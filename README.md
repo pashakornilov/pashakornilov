@@ -6,7 +6,7 @@
 
 ### Веб-разработка:
 
-HTML, CSS, JavaScript, PHP
+HTML, CSS, JavaScript (ES6+), PHP (7+)
 
 ### Фреймворки:
 
