@@ -9,4 +9,4 @@
 
 Фреймворки: Laravel, Slim, Vue, Tailwind
 
-Инструменты разработки: Docker, Visual Studio Code, PHPStorm, CLion, Git
+Инструменты разработки: Visual Studio Code, PHPStorm, CLion, Git, Docker
