@@ -7,6 +7,6 @@
 
 Базы данных: MySQL, PostgreSQL
 
-Фреймворки: Laravel, Slim
+Фреймворки: Laravel, Slim, Vue, Tailwind
 
-Инструменты разработки: Docker, Visual Studio Code, PHPStorm, Git
+Инструменты разработки: Docker, Visual Studio Code, PHPStorm, CLion, Git
