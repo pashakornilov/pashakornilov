@@ -23,3 +23,5 @@ MySQL, PostgreSQL
 ### Инструменты:
 
 Git, Docker, VS Code, PHP Storm, Tinkerwell, Insomnia
+
+[![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=pashulkakornilov&theme=dark)](https://github.com/pashakornilov/leetcode-submissions)
