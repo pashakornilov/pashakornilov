@@ -24,4 +24,6 @@ MySQL, PostgreSQL
 
 Git, Docker, VS Code, PHP Storm, Tinkerwell, Insomnia
 
+### LeetCode stats
+
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=pashulkakornilov&theme=dark)](https://github.com/pashakornilov/leetcode-submissions)
